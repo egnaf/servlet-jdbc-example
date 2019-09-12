@@ -1,7 +1,5 @@
 CREATE DATABASE university;
 
-CREATE TABLE students;
-
 CREATE TABLE students (
     id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(20) NOT NULL,
